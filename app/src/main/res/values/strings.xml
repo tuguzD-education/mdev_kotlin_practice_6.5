@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OAUTH VK</string>
+    <string name="read_button_text">Найти</string>
+    <string name="is_friend_text">В друзьях</string>
+    <string name="status_text">Статус</string>
+    <string name="birthday_text">День рождения</string>
+    <string name="id_hint">id</string>
+</resources>
